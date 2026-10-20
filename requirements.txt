@@ -1,5 +1,7 @@
 streamlit
 plotly
-pytrends
+pytrends==4.9.2
 yfinance
 pandas
+urllib3<2.0
+requests<2.32
